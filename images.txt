@@ -1,4 +1,5 @@
 nginx
 redis
+redis:5
 rancher
 mysql:5.7
